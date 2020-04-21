@@ -8,6 +8,8 @@ import { PipesModule } from './03_pipes/pipes.module';
 import { DirectivesModule } from './04_directives/directives.module';
 import { TodoModule } from './todo/todo.module';
 import { AssignmentModule } from './05_assignment/assignment.module';
+import { FormsModule } from '@angular/forms';
+import { CommonModule } from '@angular/common';
 
 const FEATURE_MODULES_TAUGHT = [
   // DatabindingModule,
